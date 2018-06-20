@@ -1,0 +1,3 @@
+Entity,Buy/Sell,AgreedFx,Currency,InstructionDate, SettlementDate,Units,Price per unit
+dood, B,0.5,SGD,01 Jan 2016,06 Jan 2016,200,100.25
+loo, B,0.1,SGD,01 Feb 2016,12 Feb 2016,200,100.25

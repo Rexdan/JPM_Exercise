@@ -1,0 +1,11 @@
+Entity,Buy/Sell,AgreedFx,Currency,InstructionDate, SettlementDate,Units,Price per unit
+food, B,0.50,SGD,01 Jan 2016,06 Jan 2016,200,100.25
+foob, B,0.10,SGD,01 Feb 2016,12 Feb 2016,200,100.25
+good, B,0.10,SGD,01 Mar 2016,09 Mar 2016,200,100.25
+gool, B,0.75,SGD,31 Dec 2016,02 Jan 2017,200,100.25
+
+bar,S,0.22,AED,08 Jan 2016,11 Jan 2016,450,150.5
+foo1, S,0.55,SAR,01 Feb 2017,06 Feb 2017,300,100.35
+bar1,S,0.77,AED,11 Mar 2017,15 Mar 2017,50,50.5
+foo2, B,0.33,SGD,01 Apr 2017,06 Apr 2017,20,78.25
+bar2,B,0.17,AED,08 May 2017,11 May 2017,999,1150.5
