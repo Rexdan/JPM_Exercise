@@ -3,6 +3,11 @@
 ## Report Printer
 *This was written in Java 1.8.0_144 and built on an embedded maven environment--version 3.3.9/1.8.2.20171007-0216--for Eclipse*
 
+## Instructions For Running Program
+1. Add the data files in csv format and with the same header that was provided in the assessment document to /src/main/resources/data_sources
+2. Run a maven build with "clean", "install", and "skip tests" selected (did not create Test application for the purpose of this assessment).
+3. Upon successfully building the project, simply run the compiled program.
+
 ### Assumptions
 1. SGP is not a recognized currency according to this website and the code *will* throw an exception when it encounters this: https://www.xe.com/iso4217.php
 2. "Weekend" means days that are *not* in the work week for AED or SAR.
